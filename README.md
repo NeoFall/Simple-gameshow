@@ -1,2 +1,2 @@
-# passwordgenerator
-A python password generator
+# gameshow
+A simple gameshow made in python
